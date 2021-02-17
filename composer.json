@@ -1,5 +1,7 @@
 {
   "name": "skunexus/dependency-confusion-patch",
   "version": "1.0.0",
-  "description": "This repository was created to reserve a namespace and eliminate dependency confusion attack. Do not use it."
+  "description": "This repository was created to reserve a namespace and eliminate dependency confusion attack. Do not use it.",
+  "type": "library",
+  "license": "MIT"
 }
